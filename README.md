@@ -9,7 +9,7 @@ With this live code/lecture you should develop the following skills:
 
 
 ### Baseline Setup
-The starting code with Scrabble & Player objects are located [here](https://github.com/CheezItMan/scrabble-js-to-backbone).  The file has two JavaScript files `src/scrabble.js` and `src/player.js`.  It also has two spec files `spec/scrabble_spec.js` and `spec/player_spec.js`.  
+The starting code with Scrabble & Player objects are located [here](https://github.com/Ada-C6/scrabble-js-to-backbone).  The file has two JavaScript files `src/scrabble.js` and `src/player.js`.  It also has two spec files `spec/scrabble_spec.js` and `spec/player_spec.js`.  
 
 Go ahead and fork & clone the repo.  
 
